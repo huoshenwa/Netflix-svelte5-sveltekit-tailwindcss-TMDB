@@ -1,5 +1,6 @@
 # If you want to run
-Please replace the API key in the. env file with your own
+Please create an. env file in the root directory and add the Content :
+Vite_TMDB_API_KEY=Use your TMDB API key
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
