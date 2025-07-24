@@ -1,0 +1,7 @@
+export {default as Header} from './Header.svelte'
+export {default as HeroSection} from './HeroSection.svelte'
+export {default as Carousel} from './Carousel.svelte'
+export {default as Card} from './Card.svelte'
+export {default as Player} from './Player.svelte'
+export {default as Modal} from './Modal.svelte'
+export {default as PopUpCard} from './PopUpCard.svelte'
